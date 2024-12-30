@@ -1,0 +1,14 @@
+
+class onesahifa extends StatefulWidget {
+  const onesahifa({super.key});
+
+  @override
+  State<onesahifa> createState() => _onesahifaState();
+}
+
+class _onesahifaState extends State<onesahifa> {
+  @override
+  Widget build(BuildContext context) {
+    return const Placeholder();
+  }
+}
